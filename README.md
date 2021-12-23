@@ -9,7 +9,6 @@
 * Give following command:
 
 ---
-
 jmeter -n -t Customers_api.jmx -l log.csv -e -o Reports 
 
 ---
