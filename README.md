@@ -2,7 +2,7 @@
 ## Prerequisites:
 * Install jdk 1.8
 * Download and extract Apache Jmeter 5.4.2
-* Set up JMETER_HOME
+* Set up **JMETER_HOME**
 ## How to run this file:
 * Clone the repo
 * Run CMD in the root folder
